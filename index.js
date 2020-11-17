@@ -1,2 +1,2 @@
 // write your code b
-const happyHolidays = () => "Happy holidays!"
+const happyHolidays = () => "Happy holidays!";
