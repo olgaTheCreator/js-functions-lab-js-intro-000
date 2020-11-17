@@ -1,2 +1,3 @@
 // write your code b
-const happyHolidays = () => "Happy holidays!";
+const happyHolidays = function() { return "Happy holidays!"};
+
